@@ -1,0 +1,6 @@
+{
+  "name": "Liyca Invoice",
+  "description": "A clean, modern, and professional invoice generator for small businesses and freelancers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
